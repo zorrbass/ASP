@@ -29,7 +29,9 @@ Following Node.js modules are used:
 * Chartjs-plugin-zoom
 
 Detailed instruction can be found on:
+
 https://www.chartjs.org/ 
+
 https://www.npmjs.com/package/chartjs-plugin-zoom
 
 ### Start
@@ -72,3 +74,7 @@ The web application is built within the django web framework.
 One `layout.html` page provides the underlying base.
 The `index.html` file written in HTML and CSS contains the body of the page and is linked to the Javascript file `index.js` containing most of the logic and creating the functions for the charts.
 A separate `views.py` Python file handles the api call to the online data source as well as several api calls to the local SQLight database. 
+
+### Deployment
+
+As of this writing there is a test deployment to be found [here](18.194.87.7).
