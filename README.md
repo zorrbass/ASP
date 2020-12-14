@@ -77,4 +77,4 @@ A separate `views.py` Python file handles the api call to the online data source
 
 ### Deployment
 
-As of this writing there is a test deployment to be found [here](18.194.87.7).
+As of this writing there is a test deployment to be found [here](http://18.194.87.7).
