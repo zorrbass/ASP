@@ -1,6 +1,12 @@
 # CS50x Final Project
 ## CARDANO Stake Pool - Distribution Explorer
 
+`Wolfgang Paradeiser`
+
+`CS50x Dec. 2020`
+
+`Munich/Germany`
+
 For my final project as part of the Harvard CS50x course, I decided to program a web interface using the following tools:
 * Django  
 * Python
