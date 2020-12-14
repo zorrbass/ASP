@@ -1,4 +1,5 @@
-## CS50x Final Project
+# CS50x Final Project
+## CARDANO Stake Pool - Distribution Explorer
 
 For my final project as part of the Harvard CS50x course, I decided to program a web interface using the following tools:
 * Django  
@@ -77,4 +78,4 @@ A separate `views.py` Python file handles the api call to the online data source
 
 ### Deployment
 
-As of this writing there is a test deployment to be found [here](http://18.194.87.7).
+As of this writing there is a test deployment to be found [here](http://18.194.87.7). The 'Update' button is not displayed in this version since it is not needed for every individual user to update the database themselves.
